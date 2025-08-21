@@ -1,0 +1,11 @@
+NAMEASCII,LATITUDE,LONGITUDE,POP_MAX,POP_MIN,POP Avg,D1 Desc,D1 Preci,D2 Desc,D2 Preci,D3 Desc,D3 Preci,D4 Desc,D4 Preci,D5 Desc,D5 Preci,D6 Desc,D6 Preci,D7 Desc,D7 Preci
+Tokyo,35.687,139.749,35676000,8336599,22006300.0,Rain,90%,Rain that periodically stops,90%,Clear with periodic clouds,20%,Clear with periodic clouds,20%,Cloudy with periodic rain,60%,Cloudy,40%,Cloudy periodically clear,30%
+Mumbai,19.019,72.855,18978000,12691836,15834918.0,Haze,0%,Partly cloudy,0%,Sunny,10%,Mostly sunny,10%,Sunny,0%,Sunny,0%,Sunny,0%
+Mexico City,19.444,-99.133,19028000,10811002,14919501.0,Partly cloudy,1%,Mostly sunny,20%,Mostly sunny,10%,Partly cloudy,20%,Partly cloudy,20%,Partly cloudy,10%,Mostly sunny,20%
+Shanghai,31.218,121.435,14987000,14608512,14797756.0,Mostly sunny,0%,Partly cloudy,0%,Mostly cloudy,10%,Scattered showers,60%,Partly cloudy,10%,Showers,50%,Cloudy,20%
+Sao Paulo,-23.557,-46.627,18845000,10021295,14433148.0,Clear with periodic clouds,2%,Partly cloudy,0%,Partly cloudy,20%,Partly cloudy,10%,Sunny,10%,Mostly sunny,10%,Mostly sunny,10%
+New York,40.752,-73.982,19040000,8008278,13524139.0,Light rain showers,61%,Isolated thunderstorms,40%,Sunny,0%,Sunny,0%,Cloudy,0%,Partly cloudy,20%,Partly cloudy,20%
+Karachi,24.872,66.988,12130000,11624219,11877110.0,Mostly sunny,0%,Partly cloudy,0%,Sunny,10%,Sunny,10%,Sunny,10%,Sunny,0%,Sunny,0%
+Buenos Aires,-34.601,-58.399,12795000,10929146,11862073.0,Clear with periodic clouds,1%,Sunny,0%,Mostly cloudy,20%,Thunderstorm,100%,Partly cloudy,20%,Sunny,10%,Partly cloudy,20%
+Delhi,28.672,77.228,15926000,7633213,11779607.0,Haze,0%,Mostly sunny,0%,Partly cloudy,0%,Partly cloudy,10%,Mostly sunny,10%,Mostly sunny,0%,Mostly sunny,0%
+Moscow,55.754,37.614,10452000,10452000,10452000.0,Mostly sunny,0%,Mostly cloudy,0%,Showers,70%,Showers,50%,Showers,50%,Partly cloudy,10%,Partly cloudy,10%

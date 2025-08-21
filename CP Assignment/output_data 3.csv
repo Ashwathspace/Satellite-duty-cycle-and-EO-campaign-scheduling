@@ -1,0 +1,11 @@
+NAMEASCII,LATITUDE,LONGITUDE,POP_MAX,POP_MIN,POP Avg,D1 Desc,D1 Preci,D2 Desc,D2 Preci,D3 Desc,D3 Preci,D4 Desc,D4 Preci,D5 Desc,D5 Preci,D6 Desc,D6 Preci,D7 Desc,D7 Preci
+Lima,-12.046,-77.052,8012000,6758234,7385117.0,Partly cloudy,15%,Partly cloudy,0%,Partly cloudy,10%,Partly cloudy,0%,Cloudy,20%,Mostly cloudy,20%,Partly cloudy,0%
+Manila,14.606,120.98,11100000,3077575,7088788.0,Mostly sunny,74%,Isolated thunderstorms,100%,Partly cloudy,20%,Mostly sunny,10%,Mostly sunny,20%,Partly cloudy,20%,Mostly sunny,0%
+Bogota,4.598,-74.085,7772000,6333661,7052831.0,Light drizzle,11%,Cloudy,20%,Scattered thunderstorms,40%,Scattered thunderstorms,50%,Scattered thunderstorms,60%,Scattered thunderstorms,60%,Scattered thunderstorms,60%
+Osaka,34.752,135.458,11294000,2592413,6943207.0,Rain,90%,Cloudy with periodic rain,80%,Clear,10%,Clear with periodic clouds,20%,Cloudy with brief rain,60%,Cloudy periodically clear,30%,Cloudy,40%
+Rio de Janeiro,-22.923,-43.227,11748000,2010175,6879088.0,Clear with periodic clouds,2%,Mostly sunny,0%,Partly cloudy,20%,Partly cloudy,20%,Sunny,10%,Sunny,10%,Sunny,10%
+Kinshasa,-4.328,15.313,7843000,5565703,6704352.0,Mostly cloudy,15%,Scattered showers,40%,Cloudy,20%,Partly cloudy,20%,Scattered thunderstorms,40%,Partly cloudy,20%,Partly cloudy,20%
+Lahore,31.562,74.348,6577000,6310888,6443944.0,Mostly sunny,17%,Partly cloudy,20%,Mostly sunny,0%,Mostly cloudy,20%,Partly cloudy,20%,Isolated thunderstorms,30%,Mostly sunny,20%
+Guangzhou,23.147,113.323,8829000,3152825,5990913.0,Mostly cloudy,17%,Thunderstorm,90%,Thunderstorm,100%,Thunderstorm,90%,Thunderstorm,70%,Thunderstorm,80%,Scattered thunderstorms,60%
+Bengaluru,12.972,77.558,6787000,5104047,5945524.0,Mostly sunny,0%,Partly cloudy,0%,Mostly sunny,0%,Mostly sunny,0%,Mostly sunny,0%,Partly cloudy,0%,Partly cloudy,0%
+Chicago,41.832,-87.752,8990000,2841952,5915976.0,Cloudy,2%,Partly cloudy,0%,Partly cloudy,0%,Rain,90%,Cloudy,20%,Scattered showers,50%,Showers,60%

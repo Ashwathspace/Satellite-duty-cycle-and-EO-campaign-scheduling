@@ -1,0 +1,41 @@
+NAMEASCII,LATITUDE,LONGITUDE,POP_MAX,POP_MIN,POP Avg,D1 Desc,D1 Preci,D2 Desc,D2 Preci,D3 Desc,D3 Preci,D4 Desc,D4 Preci,D5 Desc,D5 Preci,D6 Desc,D6 Preci,D7 Desc,D7 Preci
+Tokyo,35.687,139.749,35676000,8336599,22006300.0,Rain,90%,Rain that periodically stops,90%,Clear with periodic clouds,20%,Clear with periodic clouds,20%,Cloudy with periodic rain,60%,Cloudy,40%,Cloudy periodically clear,30%
+Mumbai,19.019,72.855,18978000,12691836,15834918.0,Haze,0%,Partly cloudy,0%,Sunny,10%,Mostly sunny,10%,Sunny,0%,Sunny,0%,Sunny,0%
+Mexico City,19.444,-99.133,19028000,10811002,14919501.0,Partly cloudy,1%,Mostly sunny,20%,Mostly sunny,10%,Partly cloudy,20%,Partly cloudy,20%,Partly cloudy,10%,Mostly sunny,20%
+Shanghai,31.218,121.435,14987000,14608512,14797756.0,Mostly sunny,0%,Partly cloudy,0%,Mostly cloudy,10%,Scattered showers,60%,Partly cloudy,10%,Showers,50%,Cloudy,20%
+Sao Paulo,-23.557,-46.627,18845000,10021295,14433148.0,Clear with periodic clouds,2%,Partly cloudy,0%,Partly cloudy,20%,Partly cloudy,10%,Sunny,10%,Mostly sunny,10%,Mostly sunny,10%
+New York,40.752,-73.982,19040000,8008278,13524139.0,Light rain showers,61%,Isolated thunderstorms,40%,Sunny,0%,Sunny,0%,Cloudy,0%,Partly cloudy,20%,Partly cloudy,20%
+Karachi,24.872,66.988,12130000,11624219,11877110.0,Mostly sunny,0%,Partly cloudy,0%,Sunny,10%,Sunny,10%,Sunny,10%,Sunny,0%,Sunny,0%
+Buenos Aires,-34.601,-58.399,12795000,10929146,11862073.0,Clear with periodic clouds,1%,Sunny,0%,Mostly cloudy,20%,Thunderstorm,100%,Partly cloudy,20%,Sunny,10%,Partly cloudy,20%
+Delhi,28.672,77.228,15926000,7633213,11779607.0,Haze,0%,Mostly sunny,0%,Partly cloudy,0%,Partly cloudy,10%,Mostly sunny,10%,Mostly sunny,0%,Mostly sunny,0%
+Moscow,55.754,37.614,10452000,10452000,10452000.0,Mostly sunny,0%,Mostly cloudy,0%,Showers,70%,Showers,50%,Showers,50%,Partly cloudy,10%,Partly cloudy,10%
+Istanbul,41.107,29.008,10061000,9945610,10003305.0,Mostly sunny,1%,Mostly sunny,0%,Partly cloudy,10%,Mostly sunny,10%,Mostly sunny,10%,Partly cloudy,10%,Partly cloudy,20%
+Dhaka,23.725,90.407,12797394,7000940,9899167.0,Partly cloudy,6%,Partly cloudy,20%,Mostly sunny,0%,Mostly sunny,10%,Sunny,10%,Partly cloudy,10%,Mostly sunny,0%
+Cairo,30.052,31.248,11893000,7734614,9813807.0,Haze,0%,Partly cloudy,0%,Mostly cloudy,0%,Partly cloudy,0%,Sunny,10%,Sunny,10%,Sunny,10%
+Seoul,37.568,126.998,9796000,9796000,9796000.0,Mostly cloudy,1%,Mostly cloudy,20%,Partly cloudy,10%,Partly cloudy,10%,Sunny,0%,Partly cloudy,0%,Partly cloudy,10%
+Kolkata,22.497,88.323,14787000,4631392,9709196.0,Mostly sunny,5%,Partly cloudy,10%,Sunny,0%,Sunny,0%,Sunny,0%,Mostly sunny,0%,Mostly sunny,0%
+Beijing,39.931,116.386,11106000,7480601,9293301.0,Mostly sunny,0%,Clear with periodic clouds,0%,Mostly sunny,10%,Scattered thunderstorms,40%,Partly cloudy,10%,Partly cloudy,10%,Mostly cloudy,10%
+Jakarta,-6.172,106.827,9125000,8540121,8832561.0,Partly cloudy,16%,Partly cloudy,20%,Thunderstorm,90%,Thunderstorm,70%,Thunderstorm,70%,Thunderstorm,70%,Scattered thunderstorms,80%
+Los Angeles,33.992,-118.182,12500000,3694820,8097410.0,Cloudy,2%,Partly cloudy,0%,Cloudy,20%,Partly cloudy,10%,Partly cloudy,0%,Sunny,0%,Sunny,0%
+London,51.502,-0.119,8567000,7421209,7994105.0,Cloudy,1%,Mostly cloudy,10%,Cloudy,20%,Cloudy,20%,Showers,70%,Showers,60%,Partly cloudy,20%
+Tehran,35.674,51.422,7873000,7153309,7513155.0,Haze,5%,Partly cloudy,0%,Sunny,0%,Sunny,0%,Sunny,0%,Sunny,0%,Sunny,0%
+Lima,-12.046,-77.052,8012000,6758234,7385117.0,Partly cloudy,15%,Partly cloudy,0%,Partly cloudy,10%,Partly cloudy,0%,Cloudy,20%,Mostly cloudy,20%,Partly cloudy,0%
+Manila,14.606,120.98,11100000,3077575,7088788.0,Mostly sunny,74%,Isolated thunderstorms,100%,Partly cloudy,20%,Mostly sunny,10%,Mostly sunny,20%,Partly cloudy,20%,Mostly sunny,0%
+Bogota,4.598,-74.085,7772000,6333661,7052831.0,Light drizzle,11%,Cloudy,20%,Scattered thunderstorms,40%,Scattered thunderstorms,50%,Scattered thunderstorms,60%,Scattered thunderstorms,60%,Scattered thunderstorms,60%
+Osaka,34.752,135.458,11294000,2592413,6943207.0,Rain,90%,Cloudy with periodic rain,80%,Clear,10%,Clear with periodic clouds,20%,Cloudy with brief rain,60%,Cloudy periodically clear,30%,Cloudy,40%
+Rio de Janeiro,-22.923,-43.227,11748000,2010175,6879088.0,Clear with periodic clouds,2%,Mostly sunny,0%,Partly cloudy,20%,Partly cloudy,20%,Sunny,10%,Sunny,10%,Sunny,10%
+Kinshasa,-4.328,15.313,7843000,5565703,6704352.0,Mostly cloudy,15%,Scattered showers,40%,Cloudy,20%,Partly cloudy,20%,Scattered thunderstorms,40%,Partly cloudy,20%,Partly cloudy,20%
+Lahore,31.562,74.348,6577000,6310888,6443944.0,Mostly sunny,17%,Partly cloudy,20%,Mostly sunny,0%,Mostly cloudy,20%,Partly cloudy,20%,Isolated thunderstorms,30%,Mostly sunny,20%
+Guangzhou,23.147,113.323,8829000,3152825,5990913.0,Mostly cloudy,17%,Thunderstorm,90%,Thunderstorm,100%,Thunderstorm,90%,Thunderstorm,70%,Thunderstorm,80%,Scattered thunderstorms,60%
+Bengaluru,12.972,77.558,6787000,5104047,5945524.0,Mostly sunny,0%,Partly cloudy,0%,Mostly sunny,0%,Mostly sunny,0%,Mostly sunny,0%,Partly cloudy,0%,Partly cloudy,0%
+Chicago,41.832,-87.752,8990000,2841952,5915976.0,Cloudy,2%,Partly cloudy,0%,Partly cloudy,0%,Rain,90%,Cloudy,20%,Scattered showers,50%,Showers,60%
+Bangkok,13.752,100.515,6704000,5104476,5904238.0,Clear with periodic clouds,2%,Partly cloudy,10%,Mostly sunny,10%,Sunny,0%,Sunny,0%,Sunny,0%,Sunny,0%
+Hong Kong,22.307,114.183,7206000,4551579,5878790.0,Light rain showers,30%,Thunderstorm,70%,Thunderstorm,80%,Thunderstorm,100%,Thunderstorm,70%,Thunderstorm,90%,Thunderstorm,60%
+Chennai,13.092,80.278,7163000,4328063,5745532.0,Clear,2%,Clear with periodic clouds,10%,Mostly sunny,10%,Sunny,10%,Mostly sunny,10%,Partly cloudy,10%,Partly cloudy,10%
+Wuhan,30.582,114.268,7243000,4184206,5713603.0,Clear with periodic clouds,2%,Partly cloudy,20%,Cloudy,20%,Partly cloudy,10%,Mostly sunny,20%,Thunderstorm,80%,Scattered showers,60%
+Tianjin,39.132,117.198,7180000,3766207,5473104.0,Partly cloudy,0%,Mostly sunny,0%,Mostly sunny,20%,Mostly cloudy,10%,Partly cloudy,0%,Partly cloudy,10%,Partly cloudy,0%
+Chongqing,29.567,106.593,6461000,3967028,5214014.0,Light rain showers,85%,Cloudy,25%,Mostly sunny,25%,Partly cloudy,25%,Mostly sunny,25%,Light rain showers,80%,Light rain showers,80%
+Baghdad,33.341,44.392,5054000,5054000,5054000.0,Mostly sunny,0%,Sunny,0%,Sunny,0%,Partly cloudy,0%,Partly cloudy,0%,Partly cloudy,10%,Cloudy,10%
+Hyderabad,17.402,78.478,6376000,3597816,4986908.0,Clear with periodic clouds,0%,Partly cloudy,0%,Mostly sunny,0%,Mostly sunny,10%,Mostly sunny,10%,Partly cloudy,10%,Mostly sunny,0%
+Paris,48.869,2.331,9904000,11177,4957589.0,Mostly cloudy,1%,Partly cloudy,10%,Scattered showers,40%,Rain,90%,Partly cloudy,20%,Scattered showers,40%,Scattered showers,40%
+Taipei,25.036,121.568,6900273,2618772,4759522.5,Mostly cloudy,30%,Thunderstorm,80%,Rain,80%,Thunderstorm,80%,Thunderstorm,80%,Isolated thunderstorms,30%,Scattered thunderstorms,50%
